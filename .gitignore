@@ -1,0 +1,16 @@
+target/
+.idea/
+*.iml
+*.swp
+.classpath
+.project
+.settings/
+*.war
+!**/src/**/*.war
+env.local
+setenv.sh
+murder
+*.pem
+id_rsa
+id_ed25519
+.DS_Store
